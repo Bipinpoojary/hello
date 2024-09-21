@@ -1,6 +1,5 @@
 # Introduction of Feature engineer 1
-(Enter your text from line 3 onwards) 
-
+Feature engineering is a crucial step in the process of building machine learning models. 
 
 
 
